@@ -66,3 +66,5 @@ class Mahasiswa extends CI_Controller {
         redirect('mahasiswa');
     }
 }
+
+//source: https://codeigniter.com/user_guide/tutorial/create_news_items.html
